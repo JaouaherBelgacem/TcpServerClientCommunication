@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643650969 source:c:\users\acer\desktop\hshl online\semester 3\microcontroller ws 21\tcpstadiumserver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
